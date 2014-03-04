@@ -1,0 +1,43 @@
+p{font-size:8pt;font-family:"Arial","Verdana";color:#666666;line-height:2}
+p.intro{font-size:8pt;font-family:"Arial","Verdana";color:#666666;text-align:left;line-height:1.5}
+p.main{font-size:10pt;font-family:"Arial","Verdana";color:#666666;text-align:left;line-height:1.7}
+
+p.intro2{font-size:10pt;font-family:"Arial","Verdana";color:#333333;text-align:left;line-height:1.5}
+p.intro3{font-size:8pt;font-family:"Arial","Verdana";color:#666666;text-align:left;line-height:1.5}
+p.intro4{font-size:8pt;font-family:"Arial","Verdana";color:#000000;text-align:left;line-height:1.5}
+p.intro5{font-size:14pt;font-family:"Arial","Verdana";color:#996666;text-align:justify;line-height:1.5}
+p.intro6{font-size:10pt;font-family:"Arial","Verdana";color:#ff0000;text-align:left;line-height:1.5}
+p.intro7{font-size:10pt;font-family:"Arial","Verdana";color:#666666;text-align:justify;line-height:1.5}
+p.intro8{font-size:8pt;font-family:"Arial","Verdana";color:#999999;text-align:left;line-height:1.2}
+p.intro9{font-size:10pt;font-family:"Arial","Verdana";color:#333333;text-align:left;line-height:1.3}
+p.intro13{font-size:7pt;font-family:"Arial","Verdana";color:#666666;text-align:left;line-height:1.2}
+p.intro10{font-size:10pt;font-family:"arial","Verdana";color:#333333;text-align:left;line-height:1.3}
+p.intro11{font-size:10pt;font-family:"Arial","Verdana";color:#333333;text-align:justify;line-height:1.3}
+
+p.intro12{font-size:7pt;font-family:"Arial","Verdana";color:#666666;text-align:right;line-height:1.5}
+
+
+A:link {color:#ff0000;text-decoration:none}
+A:visited {color:#ff9999;text-decoration:none}
+A:active {color:#990000;text-decoration:none}  
+a:hover{color:#990000}
+
+.notice {
+  margin: 0 auto;
+  position: fixed;
+  left: 50%;
+  margin-left: -55px;
+}
+
+.notice a {
+  width: 110px;
+  font-family: Verdana;
+  color: #fff;
+  font-size: 11px;
+  display: block;
+  text-align: center;
+  background-color: #F70C0D;
+  margin: 0 auto;
+  text-decoration: underline;
+  padding: 10px 10px 12px 10px;
+}

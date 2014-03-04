@@ -1,0 +1,19 @@
+Note 
+
+<1>
+video work 6 / Video into Architecture
+video6.html
+video62.html
+video63.html
+video64.html 
+
+have been moved to design category. 
+but keep the html fil names as video. 
+
+
+
+<2>
+Architecture 2 
+image and thumbnail for 82-2.gif has been taken out. 
+therefor in total 5 images are used for architecture 2
+
