@@ -22,9 +22,13 @@ A:visited {color:#ff9999;text-decoration:none}
 A:active {color:#990000;text-decoration:none}  
 a:hover{color:#990000}
 
+body {
+  position: relative;
+}
+
 .notice {
   margin: 0 auto;
-  position: fixed;
+  position: absolute;
   left: 50%;
   margin-left: -55px;
 }
@@ -33,11 +37,11 @@ a:hover{color:#990000}
   width: 110px;
   font-family: Verdana;
   color: #fff;
-  font-size: 11px;
+  font-size: 12px;
   display: block;
   text-align: center;
-  background-color: #F70C0D;
-  margin: 0 auto;
-  text-decoration: underline;
-  padding: 10px 10px 12px 10px;
+  background-color: #8755EF;
+  margin: 440px auto 0 -346px;
+  text-decoration: none;
+  padding: 1px 0 2px 0;
 }
