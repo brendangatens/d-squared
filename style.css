@@ -36,12 +36,13 @@ body {
 .notice a {
   width: 110px;
   font-family: Verdana;
-  color: #fff;
-  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  font-size: 13px;
   display: block;
   text-align: center;
-  background-color: #8755EF;
+  /* background-color: #8755EF; */
   margin: 440px auto 0 -346px;
   text-decoration: none;
-  padding: 1px 0 2px 0;
+  /* padding: 1px 0 2px 0; */
 }
